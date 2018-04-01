@@ -1,0 +1,16 @@
+Coding has been done in R. initially logistic regression has been done
+Later randome forest and naive bayes has been impemented for the same problem
+while with randome forest the sensitivity (with positive is_click as 1) is around 20%
+
+with Naive Bayes algorithim the sensitivity (with positive is_click as 1) is more than 80%
+
+#Sensitivity : 0.8358          
+#Specificity : 0.2328          
+#Pos Pred Value : 0.4773          
+#Neg Pred Value : 0.6284          
+#Prevalence : 0.4560          
+#Detection Rate : 0.3811          
+#Detection Prevalence : 0.7985          
+#Balanced Accuracy : 0.5343          
+
+#'Positive' Class : 1         
