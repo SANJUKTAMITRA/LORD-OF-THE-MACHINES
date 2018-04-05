@@ -3,6 +3,8 @@ AN analytic vidhya hackathon
 
 https://datahack.analyticsvidhya.com/contest/lord-of-the-machines/
 
+Rank : 220 in public leaderboard
+
 Email Marketing is still the most successful marketing channel and the essential element of any digital marketing strategy
 Marketers spend a lot of time in writing that perfect email, labouring over each word, catchy layouts on multiple devices to get them best in-industry open rates & click rates.
 
