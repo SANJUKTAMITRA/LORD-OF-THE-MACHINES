@@ -3,7 +3,9 @@ AN analytic vidhya hackathon
 
 https://datahack.analyticsvidhya.com/contest/lord-of-the-machines/
 
-Rank : 220 in public leaderboard
+Rank : 220 in public leaderboard and 101 rank in private leader board
+
+Problem Statement : 
 
 Email Marketing is still the most successful marketing channel and the essential element of any digital marketing strategy
 Marketers spend a lot of time in writing that perfect email, labouring over each word, catchy layouts on multiple devices to get them best in-industry open rates & click rates.
@@ -89,3 +91,8 @@ is_click
 Did not click - 0, clicked - 1
 
  
+Approach:
+Started with Data preparation steps, derived numerous variables and did random sampling as the ratio of negative to positive data in the training file was 98%:02% ratio
+
+With logistic regression in R I have determined the key variables that are critical in predicting the target variable is click and 
+used those variables in the Naive Bayes Algorithm and to achieve over 80% sensitivity
